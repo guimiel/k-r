@@ -1,1 +1,1 @@
-# k-r
+K&R exercises and answers.
